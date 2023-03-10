@@ -1,4 +1,3 @@
-# node-project
-node.js
-from udemy mosh node course
+# Node JS tutorial codes
+from udemy **mosh hamedani** course
 using mangodb, express, jwt, config and...
